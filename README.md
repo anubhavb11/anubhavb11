@@ -1,4 +1,4 @@
-## Hey! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px"/>, I'm Anubhav Basnal
+## Hey!  I'm Anubhav Basnal
 <img align="right" width="500" height="500" src="./img/home-banner-bg.png">
 <a href="https://www.linkedin.com/in/anubhav-bansal-97b107145/">
   <img align="left" alt="Anubhav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
