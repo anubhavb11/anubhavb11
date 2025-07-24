@@ -22,7 +22,7 @@ Hi, I'm Anubhav Bansal, a Web Developer 👨‍💻 , passionate about Computer 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Looking For a **Job**;
+- 👨🏽‍💻 Software Developer at **Gartner**
 - 🌱 I’m Currently Working On **Data Structures & Algorithms with a mix of Development**;
 - 👯 Open For **Collaboration**;
 - 💬 Ask Me About Anything, I Am Happy To **Help**;
